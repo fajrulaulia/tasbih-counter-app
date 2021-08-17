@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tasbih Counter App</string>
+    <string name="kurangtext">-</string>
+    <string name="tambahText">+</string>
+    <string name="Output">0</string>
+    <string name="resetText">Reset</string>
+</resources>
